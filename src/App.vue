@@ -25,6 +25,5 @@ export default {
 <style>
 #test{
   color: blue;
-  text-decoration: underline;
 }
 </style>
